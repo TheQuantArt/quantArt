@@ -1,0 +1,12 @@
+.venv/
+.mplconfig/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+*.mp4
+*.gif
+.streamlit/secrets.toml
+rwbm_exports/
+tests/_smoke.*
